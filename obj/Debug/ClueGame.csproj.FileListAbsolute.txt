@@ -1,0 +1,7 @@
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\bin\Debug\ClueGame.exe.config
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\bin\Debug\ClueGame.exe
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\bin\Debug\ClueGame.pdb
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\obj\Debug\ClueGame.csproj.AssemblyReference.cache
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\obj\Debug\ClueGame.csproj.CoreCompileInputs.cache
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\obj\Debug\ClueGame.exe
+C:\Users\znich\ElevenFiftyProjects\DotNetProjects\ClueGame\obj\Debug\ClueGame.pdb
